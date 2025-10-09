@@ -1,0 +1,32 @@
+"","id","UniProt","Symbol","Name","Target Development Level","IDG Family","Novelty"
+"1",1863,"P42771","CDKN2A","Cyclin-dependent kinase inhibitor 2A","Tbio","Enzyme",0.00014147
+"2",2058,"P35222","CTNNB1","Catenin beta-1","Tchem","Other",7.44e-05
+"3",2386,"Q14790","CASP8","Caspase-8","Tchem","Enzyme",0.00024321
+"4",3385,"Q06124","PTPN11","Tyrosine-protein phosphatase non-receptor type 11","Tchem","Enzyme",0.00073124
+"5",3883,"P08575","PTPRC","Receptor-type tyrosine-protein phosphatase C","Tchem","Enzyme",0.00012027
+"6",4410,"P35268","RPL22","60S ribosomal protein L22","Tbio","Other",0.00473197
+"7",5077,"Q13114","TRAF3","TNF receptor-associated factor 3","Tbio","Other",0.0022525
+"8",5682,"Q9UKT9","IKZF3","Zinc finger protein Aiolos","Tbio","Transcription Factor",0.01038728
+"9",6489,"P21802","FGFR2","Fibroblast growth factor receptor 2","Tclin","Kinase",0.00066613
+"10",6518,"Q969H0","FBXW7","F-box/WD repeat-containing protein 7","Tbio","Other",0.00180856
+"11",7844,"P21580","TNFAIP3","Tumor necrosis factor alpha-induced protein 3","Tbio","Other",0.00257088
+"12",8932,"P36897","TGFBR1","TGF-beta receptor type-1","Tchem","Kinase",0.00081645
+"13",9006,"P25445","FAS","Tumor necrosis factor receptor superfamily member 6","Tbio","Other",0.00043286
+"14",10102,"P16234","PDGFRA","Platelet-derived growth factor receptor alpha","Tclin","Kinase",0.00066909
+"15",10136,"P42336","PIK3CA","Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform","Tclin","Kinase",0.00044273
+"16",10723,"P10276","RARA","Retinoic acid receptor alpha","Tclin","Nuclear Receptor",0.00080574
+"17",13763,"P61769","B2M","Beta-2-microglobulin","Tbio","Other",0.00011248
+"18",15414,"P25054","APC","Adenomatous polyposis coli protein","Tchem","Other",0.00168376
+"19",15778,"P36896","ACVR1B","Activin receptor type-1B","Tchem","Kinase",0.00633595
+"20",16877,"Q8N726","CDKN2A","Tumor suppressor ARF","Tbio","Other",0.00014147
+"21",17769,"P10721","KIT","Mast/stem cell growth factor receptor Kit","Tclin","Kinase",0.00011237
+"22",18019,"P78347","GTF2I","General transcription factor II-I","Tbio","Transcription Factor",0.00703345
+"23",18083,"Q14344","GNA13","Guanine nucleotide-binding protein subunit alpha-13","Tbio","Other",0.04149138
+"24",18320,"P04637","TP53","Cellular tumor antigen p53","Tchem","Transcription Factor",1.907e-05
+"25",18332,"P27986","PIK3R1","Phosphatidylinositol 3-kinase regulatory subunit alpha","Tchem","Kinase",0.00179772
+"26",18501,"P60484","PTEN","Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN","Tbio","Enzyme",0.00013818
+"27",18518,"Q86VZ1","P2RY8","P2Y purinoceptor 8","Tbio","GPCR",0.05574297
+"28",19106,"P21359","NF1","Neurofibromin","Tbio","Other",0.00019092
+"29",19601,"P43246","MSH2","DNA mismatch repair protein Msh2","Tbio","Other",0.00054283
+"30",19797,"Q02750","MAP2K1","Dual specificity mitogen-activated protein kinase kinase 1","Tclin","Kinase",0.0005278
+"31",20037,"P46531","NOTCH1","Neurogenic locus notch homolog protein 1","Tchem","Other",0.00012547
